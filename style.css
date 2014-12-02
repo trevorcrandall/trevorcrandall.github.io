@@ -1,0 +1,47 @@
+body
+{
+	background: #FF647F;
+	color: #FFFF00;
+	box-sizing: border-box;
+}
+
+h1
+{
+	text-shadow: 5px 5px 8px #A52A2A;
+	box-sizing: border-box;
+}
+
+#header
+{
+	width: 100%;
+	height: 100px;
+	box-sizing: border-box;
+}
+
+#header ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#header li
+{
+	float: left;
+	display: inline;
+	box-sizing: border-box;
+}
+
+#header a
+{
+	display: block;
+	width: 65px;
+	height: 20px;
+	text-align: center;
+	outline: black solid 2;
+	margin: 10;
+	background: #45FF00;
+	box-sizing: border-box;
+}
